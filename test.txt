@@ -1,3 +1,4 @@
 My first text file in git!
 
 My second line!
+My tird line!
